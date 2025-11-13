@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import ProductCard from "./productCard";
+import ProductCard from "./ProductCard";
 
 export default function Apicalling({ search, onAddToCart }) {
   const [memes, setMemes] = useState([]);

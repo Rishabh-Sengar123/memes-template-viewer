@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Apicalling from "./components/Apicalling";
-import Footer from "./components/Footer";
+import Apicalling from "./Components/Apicalling";
+import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 
 export default function App() {
