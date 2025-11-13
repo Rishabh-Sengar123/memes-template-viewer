@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Header from "./components/Header";
 import Apicalling from "./components/Apicalling";
 import Footer from "./components/Footer";
+import Header from "./Components/Header";
 
 export default function App() {
   const [search, setSearch] = useState("");
